@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Molly Millions",
+        "gender": "woman",
+        "birthplace":"New York City",
+        "id": 1
+    },
+    {
+        "name": "Case",
+        "gender": "man",
+        "birthplace":"The Sprawl",
+        "id": 2
+    },
+    {
+        "name": "Wintermute",
+        "gender": "AI",
+        "birthplace":"Babylon",
+        "id": 3
+    },
+    {
+        "name": "3Jane Tessier-Ashpool",
+        "gender": "Woman Clone",
+        "birthplace":"Villa Straylight",
+        "id": 4
+    }
+]
